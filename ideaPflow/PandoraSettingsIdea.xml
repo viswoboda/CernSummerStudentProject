@@ -253,7 +253,7 @@
 
     <!-- turned off for preparation of training data, old threshold 0.34-->
     <algorithm type = "SatelliteAssignmentOnnx">
-        <ModelPath>/afs/cern.ch/user/v/viswobod/CernSummerStud/satelliteGroup_noSolenoid/group_transformer_nosol.onnx</ModelPath>
+        <ModelPath>group_transformer_nosol.onnx</ModelPath>
         <AffinityThreshold>0.52</AffinityThreshold> 
     </algorithm>
 
