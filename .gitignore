@@ -1,0 +1,10 @@
+*.png
+*.root
+CLDConfig/
+k4GaudiPandora/
+k4RecCalorimeter/
+k4RecTracker/
+LCContent/
+PandoraPFA/
+PandoraSDK/
+reco_diagnostics.py

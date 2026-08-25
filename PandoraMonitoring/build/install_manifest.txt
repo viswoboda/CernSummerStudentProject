@@ -1,0 +1,9 @@
+/eos/user/v/viswobod/CernSummer/project/PandoraMonitoring/install/lib/libPandoraMonitoring.so.04.00.03
+/eos/user/v/viswobod/CernSummer/project/PandoraMonitoring/install/lib/libPandoraMonitoring.so.04.00
+/eos/user/v/viswobod/CernSummer/project/PandoraMonitoring/install/lib/libPandoraMonitoring.so
+/eos/user/v/viswobod/CernSummer/project/PandoraMonitoring/install/include/PandoraMonitoring.h
+/eos/user/v/viswobod/CernSummer/project/PandoraMonitoring/install/include/PandoraMonitoringApi.h
+/eos/user/v/viswobod/CernSummer/project/PandoraMonitoring/install/include/TTreeWrapper.h
+/eos/user/v/viswobod/CernSummer/project/PandoraMonitoring/install/./PandoraMonitoringConfig.cmake
+/eos/user/v/viswobod/CernSummer/project/PandoraMonitoring/install/./PandoraMonitoringConfigVersion.cmake
+/eos/user/v/viswobod/CernSummer/project/PandoraMonitoring/install/lib/cmake/PandoraMonitoringLibDeps.cmake

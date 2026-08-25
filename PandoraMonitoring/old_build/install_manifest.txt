@@ -1,0 +1,9 @@
+/afs/cern.ch/user/v/viswobod/CernSummerStud/PandoraMonitoring/install/lib/libPandoraMonitoring.so.04.00.03
+/afs/cern.ch/user/v/viswobod/CernSummerStud/PandoraMonitoring/install/lib/libPandoraMonitoring.so.04.00
+/afs/cern.ch/user/v/viswobod/CernSummerStud/PandoraMonitoring/install/lib/libPandoraMonitoring.so
+/afs/cern.ch/user/v/viswobod/CernSummerStud/PandoraMonitoring/install/include/PandoraMonitoring.h
+/afs/cern.ch/user/v/viswobod/CernSummerStud/PandoraMonitoring/install/include/PandoraMonitoringApi.h
+/afs/cern.ch/user/v/viswobod/CernSummerStud/PandoraMonitoring/install/include/TTreeWrapper.h
+/afs/cern.ch/user/v/viswobod/CernSummerStud/PandoraMonitoring/install/./PandoraMonitoringConfig.cmake
+/afs/cern.ch/user/v/viswobod/CernSummerStud/PandoraMonitoring/install/./PandoraMonitoringConfigVersion.cmake
+/afs/cern.ch/user/v/viswobod/CernSummerStud/PandoraMonitoring/install/lib/cmake/PandoraMonitoringLibDeps.cmake
